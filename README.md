@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Guillaume Lefebvre</h1>
-<h3 align="center">A passionate Python developer and PhD candidate in AI from Paris, France 🇫🇷</h3>
+<h3 align="center">A passionate Python developer, working on AI from Paris, France 🇫🇷</h3>
 
 - 📍 I live in Paris, France 🇫🇷
 
 - 🔭 I am currently **CTO @ [Inokufu](https://www.inokufu.com/)**
 
-- 🌱 I am a **PhD student** in **AI**, and I work mainly on **NLP**.
+- 🌱 I have a **PhD** in **AI**, and I mainly work on **NLP**.
 
 - 🤖 I like building things around **NLP** and **Deep Learning** with **Python**, backed by **PostgreSQL** or **MongoDB** databases, deployed with **Docker** and **Kubernetes**.
 
@@ -13,10 +13,11 @@
   - [BERTEPro : Une nouvelle approche de représentation sémantique dans le domaine de l'éducation et de la formation professionnelle](https://editions-rnti.fr/?inprocid=1002823) @ EGC 2023
   - [BERTEPro : A new Sentence Embedding Framework for the Education and Professional Training domain](https://dl.acm.org/doi/10.1145/3555776.3577715) @ SAC 2023
   - [A new sentence embedding framework for the education and professional training domain with application to hierarchical multi-label text classification](https://www.sciencedirect.com/science/article/abs/pii/S0169023X24000053) @ DKE
+  - And my PhD thesis : [Learning and exploiting semantic representations for hierarchical multi-label classification and learning object retrieval in the field of education and professional training](https://theses.hal.science/tel-05026565/file/TH2024LEFEBVREGUILLAUME.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/guillaume-lefebvre-22117610b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillaume-lefebvre-22117610b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/g-lefebvre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillaume-lefebvre" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
